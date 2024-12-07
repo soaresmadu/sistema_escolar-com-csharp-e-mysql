@@ -32,7 +32,7 @@ namespace SistemaEscolar
                 return;
             }
 
-            string connectionString = "Server=localhost;Database=escola_sistema;Uid=root;Pwd=Qcf@1316;";
+            string connectionString = "Server=localhost;Database=escola_sistema;Uid=root;Pwd=#;";
 
             try
             {
